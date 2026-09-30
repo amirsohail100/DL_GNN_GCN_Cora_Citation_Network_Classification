@@ -1,0 +1,7 @@
+fastapi>=0.110.0
+uvicorn>=0.30.0
+onnxruntime>=1.18.0
+numpy>=1.24.0
+pydantic>=2.7.0
+torch
+torch-geometric>=2.5.0
